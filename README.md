@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Olá, eu sou o Miguel!
+## 👋 Olá, me chamo Miguel Oliveira!
 
 🎓 Estudante de Engenharia de Software  
 💻 Em constante aprendizado em desenvolvimento web e backend  
@@ -36,7 +36,7 @@ Tenho interesse em:
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Front-end:** HTML, CSS, JavaScript  
-- **Back-end:** Python (básico), Java (básico)  
+- **Back-end:** Python (básico), Java
 - **Banco de Dados:** MySQL  
 - **Versionamento:** Git & GitHub  
 - **Sistema Operacional:** Windows / Linux  
