@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Olá, me chamo Miguel Oliveira!
+### 👋 Olá, me chamo Miguel Oliveira!
 
-🎓 Estudante de Engenharia de Software  
+🎓 Estudante de Engenharia de Software na UNINTER  
 💻 Em constante aprendizado em desenvolvimento web e backend  
 
 ---
 
-# 🚀 Sobre mim
+### 🚀 Sobre mim
 
 Sou estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento.  
 Atualmente estou focado em aprender e praticar programação, criando projetos acadêmicos e pessoais para evoluir minhas habilidades.
@@ -32,7 +32,7 @@ Tenho interesse em:
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 - **Front-end:** HTML, CSS, JavaScript  
 - **Back-end:** Python (básico), Java
@@ -42,7 +42,7 @@ Tenho interesse em:
 
 ---
 
-# 📚 Atualmente estou aprendendo
+### 📚 Atualmente estou aprendendo
 
 - Git e GitHub
 - Lógica de Programação
