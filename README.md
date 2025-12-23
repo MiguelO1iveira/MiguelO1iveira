@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 
 🎓 Estudante de Engenharia de Software  
 💻 Em constante aprendizado em desenvolvimento web e backend  
-📍 Curitiba - PR, Brasil  
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
 Sou estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento.  
 Atualmente estou focado em aprender e praticar programação, criando projetos acadêmicos e pessoais para evoluir minhas habilidades.
@@ -33,7 +32,7 @@ Tenho interesse em:
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+# 🛠️ Tecnologias e Ferramentas
 
 - **Front-end:** HTML, CSS, JavaScript  
 - **Back-end:** Python (básico), Java
@@ -43,7 +42,7 @@ Tenho interesse em:
 
 ---
 
-## 📚 Atualmente estou aprendendo
+# 📚 Atualmente estou aprendendo
 
 - Git e GitHub
 - Lógica de Programação
