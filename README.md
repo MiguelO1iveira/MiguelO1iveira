@@ -43,7 +43,7 @@ Tenho interesse em:
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Atualmente estou aprendendo
 
 - Git e GitHub
 - Lógica de Programação
