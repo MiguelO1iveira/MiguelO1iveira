@@ -28,7 +28,7 @@ Tenho interesse em:
 ### 🛠️ Tecnologias e Ferramentas
 
 - **Front-end:** `HTML, CSS, JavaScript`  
-- **Back-end:** `Python (básico), Java`
+- **Back-end:** `Python, Java`
 - **Banco de Dados:** `MySQL`  
 - **Versionamento:** `Git & GitHub`  
 - **Sistema Operacional:** `Windows / Linux`  
