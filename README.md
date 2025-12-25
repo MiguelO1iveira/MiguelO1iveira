@@ -38,7 +38,6 @@ Tenho interesse em:
 ### 📚 Atualmente estou aprendendo
 
 - `Git e GitHub`
-- `Lógica de Programação`
 - `Python`
 
 ---
