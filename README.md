@@ -37,7 +37,7 @@ Tenho interesse em:
 
 ### 📚 Atualmente estou aprendendo
 
-- `Git e GitHub`
+- `Fundamentos de Inteligência Artificial`
 - `Python`
 
 ---
