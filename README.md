@@ -31,7 +31,6 @@ Tenho interesse em:
 - **Back-end:** `Python, Java`
 - **Banco de Dados:** `MySQL`  
 - **Versionamento:** `Git & GitHub`  
-- **Sistema Operacional:** `Windows / Linux`  
 
 ---
 
