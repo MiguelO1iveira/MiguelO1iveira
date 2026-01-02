@@ -18,9 +18,7 @@ Olá, me chamo Miguel Oliveira e sou estudante de Engenharia de Software na UNIN
 Atualmente estou focado em aprender e praticar programação, criando projetos acadêmicos e pessoais para evoluir minhas habilidades.
 
 Tenho interesse em:
-- `Desenvolvimento Web`
 - `Backend`
-- `Bancos de Dados`
 - `Boas práticas de programação`
 
 ---
