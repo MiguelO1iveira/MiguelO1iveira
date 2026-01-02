@@ -19,6 +19,7 @@ Atualmente estou focado em aprender e praticar programação, criando projetos a
 
 Tenho interesse em:
 - `Backend`
+- `Banco de Dados`
 - `Boas práticas de programação`
 
 ---
