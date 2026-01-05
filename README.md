@@ -35,7 +35,6 @@ Tenho interesse em:
 
 ### 📚 Atualmente estou aprendendo
 
-- `Fundamentos de Inteligência Artificial`
-- `Python`
+- `Java`
 
 ---
