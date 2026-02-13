@@ -32,9 +32,3 @@ Tenho interesse em:
 - **Versionamento:** `Git & GitHub`  
 
 ---
-
-### 📚 Atualmente estou aprendendo
-
-- `Java`
-
----
